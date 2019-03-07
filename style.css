@@ -40,10 +40,8 @@ body {
     /* the 'vh' unit asks the browser to */
     /* return the height of the viewport */
     /* we can then use that to set the height
-
 of an element */
     /* as a percentage of the viewport height
-
 (vh) */
     height: 100vh;
     min-height: 740px;
