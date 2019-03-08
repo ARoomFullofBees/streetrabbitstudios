@@ -193,7 +193,7 @@ li a:hover {
     padding: 2em;
     background-color: rgb(61, 61, 61);
     color: #fff;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Reene Beanie', sans-serif;
     font-weight: 300;
     font-size: 1.5em;
     text-align: center;
@@ -203,7 +203,7 @@ li a:hover {
 }
 
 .menu h1 {
-    font-family: 'Calligraffitti', cursive;
+    font-family: 'Reene Beanie', cursive;
 }
 
 .menu .menu-group-container {
@@ -252,7 +252,7 @@ a:active {
 #container {
             display: flex;
             flex-wrap: wrap;
-          font-family: 'Open Sans Condensed', sans-serif;
+          font-family: 'Reene Beanie', sans-serif;
         }
 
 .orange-box {
